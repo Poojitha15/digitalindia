@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DigitalIndia</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+</head>
+<body>
+<!-- START PAGE SOURCE -->
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"> <img src="images/logo.png" alt="" width="300" height="100" />
+
+      </div>
+      <div class="menu_nav">
+        <ul>
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a href="support.html">Support</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <img src="images/aki.png" width="1000" height="250" alt="" /></a>
+    </div>
+  </div>
+  <div class="clr"></div>
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2><span>Digital India,progressive India</span></h2>
+          <div class="clr"></div>
+          <p> power to Empower       </p>
+          <img src="images/i.jpg" width="201" height="146" alt="" class="fl" />
+          <p>Digital India is a campaign launched by the Government of India to ensure that Government services are made available to citizens electronically by improved online infrastructure and by increasing Internet connectivity or by making the country digitally empowered in the field of technology.</p>
+          <p>It was launched on 1 July 2015 by Prime Minister Narendra Modi. The initiative includes plans to connect rural areas with high-speed internet networks. Digital India consists of three core components. These include:
+
+                                                       * The creation of digital infrastructure
+                                                       * Delivery of services digit
+													   * Digital literacy </p>
+          <p><a href="#">Read more </a></p>
+        </div>
+        <div class="article">
+          <h2><span>The Digital India programme is a flagship programme of the Government of India with a vision to transform India into a digitally empowered society and knowledge economy</span> </h2>
+          <div class="clr"></div>
+          <p></p>
+          <img src="images/india.jpg" width="201" height="146" alt="" class="fl" />
+          <p>The journey of e-Governance initiatives in India took a broader dimension in mid 90s for wider sectoral applications with emphasis on citizen-centric services. Later on, many States/UTs started various e-Governance projects. Though these e-Governance projects were citizen-centric, they could make lesser than the desired impact. Government of India launched National e-Governance Plan (NeGP) in 2006. 31 Mission Mode Projects covering various domains were initiated. Despite the successful implementation of many e-Governance projects across the country, e-Governance as a whole has not been able to make the desired impact and fulfil all its objectives.</p>
+          <p>It has been felt that a lot more thrust is required to ensure e-Governance in the country promote inclusive growth that covers electronic services, products, devices and job opportunities. Moreover, electronic manufacturing in the country needs to be strengthened. 
+
+In order to transform the entire ecosystem of public services through the use of information technology, the Government of India has launched the Digital India programme with the vision to transform India into a digitally empowered society and knowledge economy.  </p>
+          <p><a href="#">Read more </a></p>
+        </div>
+        <div class="article">
+          <p>Page 1 of 2 <span class="butons"><a href="#">3</a><a href="#">2</a> <a href="#" class="active">1</a></span></p>
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <div class="search">
+            <form id="form" name="form" method="post" action="#">
+              <span>
+              <input name="q" type="text" class="keywords" id="textfield" maxlength="50" value="Search..." />
+              <input name="b" type="image" src="images/search.gif" class="button" />
+              </span>
+            </form>
+          </div>
+        </div>
+        <div class="gadget">
+          <h2>contents</h2>
+          <div class="clr"></div>
+          <ul class="sb_menu">
+            <li><a href="#">INTRODUCTION</a></li>
+            <li><a href="#">VISION AND VISION AREAS</a></li>
+            <li><a href="#">APPROACH AND METHODOLOGY</a></li>
+            <li><a href="#">MANAGEMENT STRUCTURE</a></li>
+            <li><a href="#">PROGRAMME PILLARS</a></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2><span>Aspects of Digital India</span></h2>
+          <div class="clr"></div>
+          <ul class="ex_menu">
+            <li><a href="#">broadband Highways</a><br />
+              </li>
+            <li><a href="#">Universal Access to phones</a><br />
+              </li>
+            <li><a href="#">public Internet Access Programme</a><br />
+              </li>
+            <li><a href="#">E-Governance</a><br />
+              Reforming government through Technology</li>
+            <li><a href="#">Electronic Manufacturing</a><br />
+              Target  NET ZERO Imports</li>
+            <li><a href="#">IT for jobs</a><br />
+              Early Harvest Programmes</li>
+          </ul>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Image Gallery</span></h2>
+        <a href="#"><img src="images/k.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/ji.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/p.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/ak.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/gk.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/aki.png" width="58" height="58" alt="" /></a> </div>
+      <div class="col c2">
+        <h2><span>
+INDIAN COMPUTER EMERGENCY RESPONSE TEAM</span></h2>
+        <p> (ICERT)<br />
+         About.
+
+CERT-In was formed with an aim to secure Indian cyber space. CERT-In provides Incident Prevention and Response services as well as Security Quality Management Services. CERT-In has been designated under Section 70B of Information Technology (Amendment) Act 2008 to serve as the national agency to perform the following functions in the area of cyber security:
+
+·         Collection, analysis and dissemination of information on cyber incidents
+
+·         Forecast and alerts of cyber security incidents
+
+·         Emergency measures for handling cyber security incidents
+
+·         Coordination of cyber incident response activities
+
+·         Issue guidelines, advisories, vulnerability notes and whitepapers relating to information security practices, procedures, prevention, response and reporting of cyber incidents
+</p>
+      </div>
+      <div class="col c3">
+        <h2><span>EDUCATION & RESEARCH IN COMPUTER NETWORKING (ERNET)</span></h2>
+        <p>ERNET India is an autonomous scientific society under the administrative control of Ministry of Electronics and Information Technology, Government of India, having one of the largest nationwide terrestrial and satellite network with 15 points of presence located at the premier academic and research institutions in major cities of the country. 
+Location.
+
+10th Floor, Jeevan Prakash Building, 25, Kasturba Gandhi Marg, New Delhi- 110001 Ph. +91-20-2570-4100 Fax. +91-20-2569 4004 Email. webmaster[at]eis[dot]ernet[dot]in (link sends e-mail)
+Web Site. http://www.ernet.in/ <a href="#">mail@example.com</a><br />
+          <a href="#">+1 (123) 444-5677</a></p>
+      </div>
+      <div class="clr"></div>
+    </div>
+    <div class="footer">
+      <p class="lf">Copyright &copy; 2010 <a href="#">SiteName</a> - All Rights Reserved</p>
+      <p class="rf">Design by <a href="http://http://www.digitalindia.gov.in/"> </a></p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- END PAGE SOURCE -->
+</body>
+</html>

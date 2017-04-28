@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DigitalWorld | Support</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+</head>
+<body>
+<!-- START PAGE SOURCE -->
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"> <img src="images/logo.png" alt="" width="300" height="100" />
+       
+      </div>
+      <div class="menu_nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li class="active"><a href="support.html">Support</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <img src="images/aki.png" width="1050" height="250" alt="" /></a>
+    </div>
+  </div>
+  <div class="clr"></div>
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2><span>Support to</span> Digital India Week</h2>
+          <div class="clr"></div>
+          <p>
+
+At the launch ceremony of Digital India Week by Prime Minister Narendra Modi in Delhi on 1 July 2015,[25] top CEOs from India and abroad committed to invest ?224.5 lakh crore (US$3.3 trillion) towards this initiative. The CEOs said the investments would be utilitized towards making smartphones and internet devices at an affordable price in India which would help generate jobs in India as well as reduce the cost of importing them from abroad.[26]
+
+[27] Leaders from Silicon Valley, San Jose, California expressed their support for Digital India during PM Narendra Modi's visit in September 2015. Facebook's CEO, Mark Zuckerberg, changed his profile picture in support of Digital India and started a chain on Facebook and promised to work on WiFi Hotspots in rural area of India. Google committed to provide broadband connectivity on 500 railway stations in India. Microsoft agreed to provide broadband connectivity to five hundred thousand villages in India and make India its cloud hub through Indian data centres. Qualcomm announced an investment of US$150 million in Indian startups. Oracle plans to invest in 20 states and will work on payments and Smart city initiatives. However back home in India, cyber experts expressed their concern over internet.org and viewed the Prime Minister's bonhomie with Zuckerberg as the government's indirect approval of the controversial initiative. The Statesman reported, "Prime Minister Narendra Modi's chemistry with Facebook CEO Mark Zuckerberg at the social media giant's headquarters in California may have been greeted enthusiastically in Silicon Valley but back home several social media enthusiasts and cyber activists are disappointed." Later the Prime Minister office clarified that net neutrality will be maintained at all costs and vetoed the Basic Internet plans</p>
+          <p>DigiLocker
+Main article: DigiLocker
+
+Digital Locker facility will help citizens to digitally store their important documents like PAN card, passport, mark sheets and degree certificates. Digital Locker will provide secure access to Government issued documents. It uses authenticity services provided by Aadhaar. It is aimed at eliminating the use of physical documents and enables the sharing of verified electronic documents across government agencies. Three key stakeholders of DigiLocker are Citizen, Issuer and requester.</p>
+          <p><strong>Lorem ipsum dolor sit amet</strong></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget bibendum tellus. Nunc vel imperdiet tellus. Mauris ornare aliquam urna, accumsan bibendum eros auctor ac.</p>
+         
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <div class="search">
+            <form id="form" name="form" method="post" action="#">
+              <span>
+              <input name="q" type="text" class="keywords" id="textfield" maxlength="50" value="Search..." />
+              <input name="b" type="image" src="images/search.gif" class="button" />
+              </span>
+            </form>
+          </div>
+        </div>
+        
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Image Gallery</span></h2>
+        <a href="#"><img src="images/aki.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/ak.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/k.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/gk.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/p.png" width="58" height="58" alt="" /></a> <a href="#"><img src="images/ji.jpg" width="58" height="58" alt="" /></a> </div>
+     
+     
+      <div class="clr"></div>
+    </div>
+    <div class="footer">
+      <p class="lf">Copyright &copy; 2010 <a href="#">SiteName</a> - All Rights Reserved</p>
+      <p class="rf">Design by <a href="http://www.iwebsitetemplate.com/">I Website Template</a></p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- END PAGE SOURCE -->
+</body>
+</html>
